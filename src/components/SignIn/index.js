@@ -19,7 +19,7 @@ const SignIn=()=>{
             alert('Password should be at least 5 characters long');
             return;
         }
-        navigate('/');
+        navigate('/dashboard');
     };
     return (
         <div className='signIn-container'>
