@@ -1,0 +1,172 @@
+.dashboard-container{
+    display: flex;
+    flex-direction: row;
+    background-color: #dcdee3;
+}
+.navigation-container{
+    display: flex;
+    flex-direction: column;
+    background-color: #000000;
+    margin: 20px;
+    border-radius: 20px;
+    width: 280px;
+    background-size: cover;
+}
+.icon-container{
+    display: flex;
+    flex-direction: row;
+}
+.heading{
+    color: #ffffff;
+    margin: 10px;
+}
+.icon-names{
+    margin-left: 20px;
+    color: #ffffff;
+    font-size: 25px;
+}
+.icons{
+    color: #ffffff;
+    font-size: 26px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.help-contact-container{
+    margin-top: 700px;
+}
+.help{
+    color: #ffffff;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.right-side-container{
+    width: 110%;
+}
+.header-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 10%;
+}
+.search-profile-container{
+    display: flex;
+    flex-direction: row;
+}
+.search-icon-container{
+    display: flex;
+    flex-direction: row;
+    background-color: #ffffff;
+    height: 20px;
+    margin:20px;
+    padding: 6px;
+    border-radius: 4px;
+}
+.searchInput{
+    border: 0px;
+}
+.searchIcon{
+    margin-top: 20px;
+}
+.notification-icon{
+    margin-top: 20px;
+    
+    font-size: 20px;
+}
+.profile{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border-radius: 100%;
+}
+.total-count-container{
+    display: flex;
+    flex-direction: row;
+}
+.revenues-count-container{
+    background-color: #7bb0e0;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    width: 15%;
+}
+.trasaction-count-container{
+    background-color: #dee398;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    width: 15%;
+}
+.likes-count-container{
+    background-color: #e6a3ba;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    width: 15%;
+}
+.users-count-container{
+    background-color: #a3e4e6;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    width: 15%;
+}
+.count{
+    font-size: 20px;
+    font-weight: bold;
+}
+.pie-chart-schedule-container{
+    display: flex;
+    flex-direction: row;
+}
+.schedules-container{
+    display: flex;
+    flex-direction: row;
+    margin-right: 200px;
+}
+.schedules-container2{
+    display: flex;
+    flex-direction: row;
+    margin-right: 240px;
+}
+.pie-chart-container{
+    width: 40%;
+    
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+.days-schedules-container{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffffff;
+}
+.line1{
+    background-color: #75f080;
+    width: 10px;
+    border: 0px;
+    margin-right: 10px;
+}
+.line2{
+    background-color: #4769e6;
+    width: 10px;
+    border: 0px;
+    margin-right: 10px;
+}
+.schedule-heading{
+    color: #666666;
+    font-size: 20px;
+}
+.details{
+    color: #999999;
+}
+.Bar-chart-container{
+   margin-right: 10px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}

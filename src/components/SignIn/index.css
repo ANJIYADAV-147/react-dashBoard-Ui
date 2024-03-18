@@ -1,0 +1,64 @@
+.signIn-container{
+    display: flex;
+    flex-direction: row;
+}
+.leftSide-container{
+    width: 588px;
+    height: 100vh;
+    background-color: #000000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.board{
+    color: #ffffff;
+    width: 246px;
+    height: 88px;
+    top: 464px;
+    left: 171px;
+    font-size: 50px;
+}
+.rightSide-container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
+    justify-content: center;
+}
+.LoginForm{
+    display: flex;
+    flex-direction: column;
+    width: 385px;
+    border-radius: 5px;
+    top: 409px;
+    border-radius: 10px;   
+    border: 1px solid #dcdfe8;
+    padding: 20px;
+}
+.Input{
+    background-color: #cecccf;
+    border-radius: 5px;
+    border: 0px;
+    padding: 10px;
+    color: #000000;
+}
+.description{
+    margin-top: 0px;
+}
+
+.signInButton{
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+    border: 0px;
+    border-radius: 5px;
+}
+.span{
+    color: #4f69db;
+}
+.dontHaveAccount{
+    margin-left: 100px;
+}
+.forgot{
+    color: #4f69db;
+}
